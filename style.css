@@ -39,7 +39,7 @@ li{
     margin: 0.5rem 0.5rem 0.5rem 0.5rem;
     width: 60px;
     height: 60px;
-    background-image: url(img/menu.png);
+    background-image: url(menu.png);
     background-repeat: none;
     background-size: cover;
 }
@@ -88,7 +88,7 @@ li{
 .fotoback{
     width: 100%;
     height: 400px;
-    background-image:url(img/fotohome.jpg);
+    background-image:url(fotohome.jpg);
     background-size: cover;
 }
 
@@ -109,15 +109,15 @@ li{
 }
 
 .mobile1{
-    background-image: url(img/slidemobile1.jpg) !important
+    background-image: url(slidemobile1.jpg) !important
 }
 
 .mobile2{
-    background-image: url(img/slidemobile2.jpg) !important;
+    background-image: url(slidemobile2.jpg) !important;
 }
 
 .mobile3{
-    background-image: url(img/slidemobile3.jpg) !important;
+    background-image: url(slidemobile3.jpg) !important;
 }
 
 .cta{
@@ -219,7 +219,7 @@ p{
     margin-top: 5rem;
     width: 500px;
     height: 400px;
-    background-image: url(img/tree.png);
+    background-image: url(tree.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -229,13 +229,13 @@ p{
 
 .iconF{
     margin-top: 7rem;
-    background-image: url(img/flower.png);
+    background-image: url(flower.png);
 }
 
 .iconS{
     width: 300px;
     height: 300px;
-    background-image: url(img/shield.png);
+    background-image: url(shield.png);
 }
 
 .back{
@@ -277,15 +277,15 @@ p{
 }
 
 .iconH{
-    background-image: url(img/hands.png);
+    background-image: url(hands.png);
 }
 
 .iconFi{
-    background-image: url(img/fish.png);
+    background-image: url(fish.png);
 }
 
 .iconW{
-    background-image: url(img/water.png);
+    background-image: url(water.png);
 }
 
 /*ProyectoFinal*/
@@ -503,30 +503,30 @@ p{
 }
 
 .facebook{
-    background-image: url(img/facebook.png);
+    background-image: url(facebook.png);
 }
 
 .linkedin{
-    background-image: url(img/linkedin.png);
+    background-image: url(linkedin.png);
 }
 
 .instagram{
-    background-image: url(img/instagram.png);
+    background-image: url(instagram.png);
 }
 
 .twitter{
-    background-image: url(img/twitter.png);
+    background-image: url(twitter.png);
 }
 
 .youtube{
-    background-image: url(img/youtube.png);
+    background-image: url(youtube.png);
 }
 
 .imgfooter{
     padding: 0rem 18rem 0rem 2rem;
     width: 100px;
     height: 100px;
-    background-image: url(img/footer.jpg);
+    background-image: url(footer.jpg);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -550,7 +550,7 @@ p{
     margin-left: 5rem;
     width: 70px;
     height: 70px;
-    background-image: url(img/send.png);
+    background-image: url(send.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -601,15 +601,15 @@ p{
     }
 
     .mobile1{
-        background-image: url(img/slide1.jpg) !important
+        background-image: url(slide1.jpg) !important
     }
     
     .mobile2{
-        background-image: url(img/slide2.jpg) !important;
+        background-image: url(slide2.jpg) !important;
     }
     
     .mobile3{
-        background-image: url(img/slide3.jpg) !important;
+        background-image: url(slide3.jpg) !important;
     }
 
      #titulohome{
@@ -750,17 +750,17 @@ p{
         align-items: center;
         width: 100%;
         height: 35%;
-        background-image: url(img/proyecto1.jpg);
+        background-image: url(proyecto1.jpg);
         background-size: cover;
         background-repeat: no-repeat;
     }
 
     .backalii{
-        background-image: url(img/alianzasba.jpg);
+        background-image: url(alianzasba.jpg);
     }
 
     .backi{
-        background-image: url(img/oceanoba.jpg);
+        background-image: url(oceanoba.jpg);
     }
     
 
@@ -785,7 +785,7 @@ p{
         margin-left: 7rem;
         width: 80%;
         height: 50%;
-        background-image: url(img/aliadosmapa.png);
+        background-image: url(aliadosmapa.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
@@ -840,7 +840,7 @@ p{
         width: 400px;
         height: 400px;
         margin-left: 30rem;
-        background-image: url(img/contactoquery.jpg);
+        background-image: url(contactoquery.jpg);
     }
 
     .sendCont{
